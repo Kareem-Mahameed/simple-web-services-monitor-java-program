@@ -1,4 +1,4 @@
-# Project for simple web Services Monitor Java program using multithreading and socket
+# Project for simple web Services Monitor Java program using multithreading and Java socket
 
 - The project has Java Classes only, no UI, main method in MonitorApp.java.
 - after starting MonitorApp.java/main or MonitorAppTests.java, please try to switch the Wifi or network signal on/off to see the notifications in logs or console  
